@@ -1,5 +1,5 @@
 # Memories
-#### Aplikasi yang dibuat untuk menyimpan kenangan atau momen, dibuat dengan stack MERN (MongoDB, ExpressJS, ReactJS, NodeJS). Pengguna bisa menambahkan momen, mengedit, mneghapus, dan memberikan like pada momen.
+#### Aplikasi yang dibuat untuk menyimpan kenangan atau momen, dibuat dengan stack MERN (MongoDB, ExpressJS, ReactJS, NodeJS). Pengguna bisa menambahkan momen, mengedit, menghapus, dan memberikan like pada momen.
 #### Link demo: https://memories-web.netlify.app/
 
 #### Screenshot Aplikasi
